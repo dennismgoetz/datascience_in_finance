@@ -1,6 +1,6 @@
 # Data Science in Finance with Python – Final Case
 ## Project description
-This project was part of the "Data Science in Finance with Python" course at Catholic University of Eichstätt-Ingolstadt. 
+This project was part of the "Data Science in Finance with Python" course at the Catholic University of Eichstätt-Ingolstadt. 
 The tasks of the final case and presentation ware as follows:
 
 1. Select 15 companies that have been listed on the stock exchange since 1997. Determine the portfolios with the minimum 
